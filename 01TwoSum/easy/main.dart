@@ -3,7 +3,7 @@ import 'dart:developer';
 void main(){
   void twoSum({required List<int> list, required int target}){
     Stopwatch stopwatch = new Stopwatch()..start();
-    List<int> result = [];
+    List<int?> result = [];
     list.forEach((int i) => list.forEach((int j){
       if(i != j){
         if(i+j == target){
