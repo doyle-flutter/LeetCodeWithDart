@@ -15,8 +15,13 @@ LeetCode 문제들을 다트 코드로 진행하며, <br/>
 
 2. Add Two Numbers [🔗](https://leetcode.com/problems/add-two-numbers/) : 
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/02AddTwoNumbers/beginner/main.dart)
-& [Easy]() 
-& [Hard]()
+& Easy 
+& Hard
+
+3. Longest Substring Without Repeating Characters [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : 
+Beginner
+& Easy
+& Hard
 
 <br/>
 <br/>
