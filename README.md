@@ -26,16 +26,20 @@ LeetCode 문제들을 다트로 만나기 👋  <br/>
 & Hard
 
 4. Median of Two Sorted Arrays [🔗](https://leetcode.com/problems/median-of-two-sorted-arrays/) : 
-Beginner
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/04MedianofTwoSortedArrays/beginner/main.dart)
 & Easy
 & Hard
 
+5. Longest Palindromic Substring[🔗](https://leetcode.com/problems/longest-palindromic-substring/) : 
+Beginner
+& Easy
+& Hard
 <br/>
 <br/>
 ... 
 <code>
 00. title [🔗]() : 
-[Beginner]()
-& [Easy]() 
-& [Hard]()
+Beginner
+& Easy
+& Hard
 </code>
