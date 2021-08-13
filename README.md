@@ -9,7 +9,7 @@ LeetCode 문제들을 다트로 만나기 👋  <br/>
 
 🎯 Dart 2.12 이상, NullSafety 적용
 
-0. 들어가기 전 ...
+0. 시작하기 앞서 [🔗](https://cafe.naver.com/flutterjames/373) 
 1. Two Sum [🔗](https://leetcode.com/problems/two-sum/) : 
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/beginner/main.dart)
 & [Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/easy/main.dart) 
