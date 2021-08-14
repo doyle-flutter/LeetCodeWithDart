@@ -6,7 +6,8 @@
 
 🎯 Dart 2.12 이상, NullSafety 적용
 
-0. 안 내 [🔗](https://cafe.naver.com/flutterjames/373) 
+### Intro. [🔗](https://cafe.naver.com/flutterjames/373) 
+
 1. Two Sum [🔗](https://leetcode.com/problems/two-sum/) : 
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/beginner/main.dart)
 & [Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/easy/main.dart) 
@@ -33,6 +34,11 @@
 & Hard
 
 6. ZigZag Conversion [🔗](https://leetcode.com/problems/zigzag-conversion/) : 
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/06ZigZagConversion/beginner/main.dart)
+& Easy
+& Hard
+
+7. Reverse Integer [🔗]() : 
 Beginner
 & Easy
 & Hard
