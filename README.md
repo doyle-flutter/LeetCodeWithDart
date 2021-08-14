@@ -38,7 +38,12 @@
 & Easy
 & Hard
 
-7. Reverse Integer [🔗]() : 
+7. Reverse Integer [🔗](https://leetcode.com/problems/reverse-integer/) : 
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/07ReverseInteger/B/main.dart)
+& Easy
+& Hard
+
+8. String to Integer (atoi) [🔗](https://leetcode.com/problems/string-to-integer-atoi/) : 
 Beginner
 & Easy
 & Hard
