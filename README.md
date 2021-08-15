@@ -44,6 +44,11 @@
 & Hard
 
 8. String to Integer (atoi) [🔗](https://leetcode.com/problems/string-to-integer-atoi/) : 
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/08StringtoInteger(atoi)/B/main.dart)
+& Easy
+& Hard
+
+9. Palindrome Number [🔗](https://leetcode.com/problems/palindrome-number/) : 
 Beginner
 & Easy
 & Hard
