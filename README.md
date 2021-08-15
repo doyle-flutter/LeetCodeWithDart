@@ -49,6 +49,11 @@
 & Hard
 
 9. Palindrome Number [🔗](https://leetcode.com/problems/palindrome-number/) : 
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/09PalindromeNumber/B/main.dart)
+& Easy
+& Hard
+
+10. Regular Expression Matching [🔗](https://leetcode.com/problems/regular-expression-matching/) : 
 Beginner
 & Easy
 & Hard
