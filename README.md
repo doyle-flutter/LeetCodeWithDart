@@ -36,7 +36,7 @@
 & Easy
 & Hard
 
-6. ZigZag Conversion [🔗](https://leetcode.com/problems/zigzag-conversion/) : 
+6. ZigZag Conversion 😈 [🔗](https://leetcode.com/problems/zigzag-conversion/) : 
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/06ZigZagConversion/beginner/main.dart)
 & Easy
 & Hard
@@ -78,7 +78,11 @@
 & Easy
 & Hard
 
-15. 3Sum [🔗](https://leetcode.com/problems/3sum/) : 
+15. 3Sum 😈 [🔗](https://leetcode.com/problems/3sum/) : 
+Beginner
+& [Easy & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/3Sum/EnH/main.dart)
+
+16. 3Sum Closest [🔗](https://leetcode.com/problems/3sum-closest/) : 
 Beginner
 & Easy
 & Hard
