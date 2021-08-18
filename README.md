@@ -74,6 +74,11 @@
 & Hard
 
 14. Longest Common Prefix [🔗](https://leetcode.com/problems/longest-common-prefix/) : 
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/14LongestCommonPrefix/B/main.dart)
+& Easy
+& Hard
+
+15. 3Sum [🔗](https://leetcode.com/problems/3sum/) : 
 Beginner
 & Easy
 & Hard
