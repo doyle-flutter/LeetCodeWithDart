@@ -83,9 +83,10 @@ Beginner
 & [Easy & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/3Sum/EnH/main.dart)
 
 16. 3Sum Closest [🔗](https://leetcode.com/problems/3sum-closest/) : 
-Beginner
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/16_3SumClosest/B/main.dart)
 & Easy
 & Hard
+
 
 <br/>
 <br/>
