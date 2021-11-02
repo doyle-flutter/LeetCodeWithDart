@@ -87,6 +87,15 @@ Beginner
 & Easy
 & Hard
 
+17. Letter Combinations of a Phone Number [🔗](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) : 
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/17LetterCombinationsOfAPhoneNumber/B/main.dart)
+& Easy
+& Hard
+
+18. 4Sum [🔗](https://leetcode.com/problems/4sum/) : 
+Beginner
+& Easy
+& Hard
 
 <br/>
 <br/>
