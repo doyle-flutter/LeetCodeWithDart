@@ -2,7 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyle-flutter/LeetCodeWithDart&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-💪 💻 입문 및 초급 대상 🔗 작성중...
+💪 💻 입문 및 초급 대상 [🔗](https://github.com/doyle-flutter/LeetCodeWithDart/tree/main/00Study)
+01. List Sort Stable & UnStable [🔗 🎯](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/00Study/01.ListSortStableUnStable/main.dart)
+02. ...
+
 <br/>
 
 -----
