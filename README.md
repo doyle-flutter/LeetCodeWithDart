@@ -97,6 +97,11 @@ Beginner
 & Easy
 & Hard
 
+📌 704. Binary-Search [🔗](https://leetcode.com/problems/binary-search/) : 
+[Beginner & Easy & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/704Binary_Search/main.dart)
+
+https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/704Binary_Search/main.dart
+
 <br/>
 <br/>
 ... 
