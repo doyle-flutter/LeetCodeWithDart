@@ -105,8 +105,13 @@ Beginner
 
 283. Move Zeroes [🔗](https://leetcode.com/problems/move-zeroes/) : 
 Beginner
-& [Easy](https://gist.github.com/doyle-flutter/65c6be9c6c44df6f7c1ae0a2c7c95d78)
+& [Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/283Move%20Zeroes/E/main.dart)
 & Hard
+
+162. Find Peak Element [🔗](https://leetcode.com/problems/find-peak-element/) : 
+Beginner
+& Easy
+& [Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/162FindPeakElement/H/main.dart)
 
 <br/>
 <br/>
