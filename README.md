@@ -107,8 +107,7 @@ Beginner
 & Hard
 
 Find Peak Element [🔗](https://leetcode.com/problems/find-peak-element/) : 
-Beginner
-& Easy
+[Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/162FindPeakElement/E/main.dart)
 & [Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/162FindPeakElement/H/main.dart)
 
 <br/>
