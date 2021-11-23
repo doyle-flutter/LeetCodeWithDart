@@ -110,6 +110,11 @@ Find Peak Element [🔗](https://leetcode.com/problems/find-peak-element/) :
 [Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/162FindPeakElement/E/main.dart)
 & [Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/162FindPeakElement/H/main.dart)
 
+Find Pivot Index [🔗](https://leetcode.com/problems/find-pivot-index/) : 
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/724FindPivotIndex/B/main.dart)
+& Easy
+& Hard
+
 <br/>
 <br/>
 ... 
