@@ -6,7 +6,8 @@
 
 💪 💻 기초 지식(입문) [🔗](https://github.com/doyle-flutter/LeetCodeWithDart/tree/main/00Study)
 01. List Sort Stable & UnStable [🔗 🎯](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/00Study/01.ListSortStableUnStable/main.dart)
-02. ...
+02. 📌 Binary-Search [🔗](https://leetcode.com/problems/binary-search/) : 
+[Beginner & Easy & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/704Binary_Search/main.dart)
 
 <br/>
 
