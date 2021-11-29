@@ -3,11 +3,9 @@ void main() {
   void shortestUnsortedContinuousSubarray(List<int> input){
     if(input.length <= 1) return print("👉 0 / NONE");
     
-    // O(nlogn)
     List<int> prevList = [...input];
     input.sort(); 
     
-    // O(n)
     List<int> result = [];
     for(int i = 0; i < input.length; i++){
       if(input[i] != prevList[i]){
