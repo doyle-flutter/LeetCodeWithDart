@@ -115,6 +115,10 @@ Find Pivot Index [🔗](https://leetcode.com/problems/find-pivot-index/) :
 [Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/724FindPivotIndex/B/main.dart)
 & [Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/724FindPivotIndex/H/main.dart)
 
+Shortest Unsorted Continuous Subarray [🔗](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) : 
+[Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/581ShortestUnsortedContinuousSubarray/BnE/main.dart)
+& Hard
+
 <br/>
 <br/>
 ... 
