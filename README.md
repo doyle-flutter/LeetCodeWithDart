@@ -82,7 +82,7 @@ Longest Common Prefix [🔗](https://leetcode.com/problems/longest-common-prefix
 
 3Sum 😈 [🔗](https://leetcode.com/problems/3sum/) : 
 Beginner
-& [Easy & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/3Sum/EnH/main.dart)
+& [Easy & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/15_3Sum/EnH/main.dart)
 
 3Sum Closest [🔗](https://leetcode.com/problems/3sum-closest/) : 
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/16_3SumClosest/B/main.dart)
