@@ -119,6 +119,11 @@ Shortest Unsorted Continuous Subarray [🔗](https://leetcode.com/problems/short
 [Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/581ShortestUnsortedContinuousSubarray/BnE/main.dart)
 & [📌 Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/581ShortestUnsortedContinuousSubarray/H/main.dart)
 
+Merge Intervals [🔗](https://leetcode.com/problems/merge-intervals/) : 
+Beginner
+& Easy
+& Hard
+
 <br/>
 <br/>
 ... 
