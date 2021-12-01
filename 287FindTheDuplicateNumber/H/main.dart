@@ -1,10 +1,10 @@
 void main() {
   
   void findTheDuplicateNumber(List<int> input){   
-    // O(n)
     int ea = input.length - 1;
     List<int> _input = List.generate(ea, (int i) => i+1);
     int i = 0;
+    // O(n)
     while(i < _input.length){
       input.remove(_input[i]);
       i++;
