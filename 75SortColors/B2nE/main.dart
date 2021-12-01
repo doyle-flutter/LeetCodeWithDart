@@ -1,7 +1,7 @@
 void main() {
   
   void sortColors(List<int> input){   
-    // O(n)
+    // O(n), Counting Methods
     int i = 0;
     int ea0 = 0;
     int ea1 = 0;
