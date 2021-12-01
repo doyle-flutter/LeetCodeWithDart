@@ -123,7 +123,7 @@ Merge Intervals [🔗](https://leetcode.com/problems/merge-intervals/) :
 [test](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/56MergeIntervals/test00/main.dart) / [Beginner & Easy & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/56MergeIntervals/EnBnH/main.dart)
 
 Sort Colors [🔗](https://leetcode.com/problems/sort-colors/) : 
-Beginner
+[Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/75SortColors/E/main.dart)
 & Easy
 & Hard
 
