@@ -127,7 +127,7 @@ Sort Colors [🔗](https://leetcode.com/problems/sort-colors/) :
 
 Find the Duplicate Number [🔗](https://leetcode.com/problems/find-the-duplicate-number/) : 
 [Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/287FindTheDuplicateNumber/BnE/main.dart)
-& Hard
+& [Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/287FindTheDuplicateNumber/H/main.dart)
 
 <br/>
 <br/>
