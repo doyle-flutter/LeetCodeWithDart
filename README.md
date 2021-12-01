@@ -124,7 +124,7 @@ Merge Intervals [🔗](https://leetcode.com/problems/merge-intervals/) :
 
 Sort Colors [🔗](https://leetcode.com/problems/sort-colors/) : 
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/75SortColors/B/main.dart)
-& Easy
+& [Easy 1](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/75SortColors/B2nE/main.dart) / Easy 2
 & Hard
 
 <br/>
