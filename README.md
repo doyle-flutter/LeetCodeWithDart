@@ -95,8 +95,7 @@ Letter Combinations of a Phone Number [🔗](https://leetcode.com/problems/lette
 & Hard
 
 4Sum [🔗](https://leetcode.com/problems/4sum/) : 
-Beginner
-& Easy
+[Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/18_4Sum/b/main.dart)
 & Hard
 
 📌 Binary-Search [🔗](https://leetcode.com/problems/binary-search/) : 
