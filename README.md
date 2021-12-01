@@ -126,6 +126,10 @@ Sort Colors [🔗](https://leetcode.com/problems/sort-colors/) :
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/75SortColors/B/main.dart)
 & [Easy 1](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/75SortColors/B2nE/main.dart) / [Easy 2 & Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/75SortColors/E2nH/main.dart)
 
+Find the Duplicate Number [🔗](https://leetcode.com/problems/find-the-duplicate-number/) : 
+[Beginner & Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/287FindTheDuplicateNumber/BnE/main.dart)
+& Hard
+
 <br/>
 <br/>
 ... 
