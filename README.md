@@ -19,6 +19,7 @@ Two Sum [🔗](https://leetcode.com/problems/two-sum/) :
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/beginner/main.dart)
 & [Easy](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/easy/main.dart) 
 & [Hard](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/hard/main.dart)
+& [Add](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/01TwoSum/add/main.dart)
 
 Add Two Numbers [🔗](https://leetcode.com/problems/add-two-numbers/) : 
 [Beginner](https://github.com/doyle-flutter/LeetCodeWithDart/blob/main/02AddTwoNumbers/beginner/main.dart)
